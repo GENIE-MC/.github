@@ -1,5 +1,3 @@
-# GENIE 
-
 GENIE is an **international collaboration of scientists that plays the leading role in**:
  - the development of a modern and universal event generator framework and tools in support of neutrino experiments,
  - the consistent, validated and efficient implementation of a constellation of alternative physics models within a common platform,
@@ -9,6 +7,22 @@ GENIE is an **international collaboration of scientists that plays the leading r
 The GENIE collaboration maintains a suite of software products for the experimental neutrino community. All products are hosted in this GitHub organization.
 
 ## GENIE products and repositories hosted in this GitHub organization
+
+### Generator 
+
+GitHub repository at: https://github.com/GENIE-MC/Generator
+
+The well-known GENIE Generator product implements a modern framework for Monte Carlo event generators and includes state-of-the-art physics modules. The GENIE physics model is universal and comprehensive: It handles all neutrinos and targets, and all processes relevant from MeV to PeV energy scales. The Generator includes several tools (flux drivers, detector geometry navigation drivers, and specialized event generation apps) to simulate complex experimental setups in full detail. The GENIE Generator is used by nearly all modern neutrino experiments and its predictions serve as standard reference points for the neutrino community. Generators for charged lepton and hadron scattering off nucleons and nuclei, as well as several generators for BSM channels of interest at neutrino experiments, are supported within a unified physics framework.
+
+### Comparisons
+
+GitHub repository at: https://github.com/GENIE-MC/Comparisons
+
+The Comparisons product includes very extensive curated archives of neutrino, charged-lepton and hadron scattering data, as well as highly-developed software to produce a comprehensive set of data/MC comparisons. It includes embedded interfaces to the Professor tuning tool which "reduces the exponentially expensive process of brute-force tuning to a scaling closer to a power law in the number of parameters and allows for massive parallelisation". The Comparisons product plays a key role in comprehensive model characterization in GENIE, it underpins the GENIE global analysis, and it enabled the production of several new tunes. 
+
+### GENIE/**Tuning** product
+
+Repository: https://github.com/GENIE-MC/Tuning
 
 ## Source code releases and copyright
 
