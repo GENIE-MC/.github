@@ -1,7 +1,7 @@
 [GENIE](http://www.genie-mc.org) is an [international collaboration of scientists](https://hep.ph.liv.ac.uk/~costasa/genie/collaboration.html) that plays the leading role in:
  - the development of a modern and universal event generator framework and tools in support of neutrino experiments,
- - the consistent, validated and efficient implementation of a constellation of alternative physics models within a common platform,
- - the development and characterisation of novel comprehensive physics models for the simulation of neutrino and charged lepton interactions, as well as for selected BSM channels, and
+ - the consistent, validated and efficient implementation, within a common platform, of a constellation of alternative physics modeling elements for the simulation of neutrino, charged lepton, and hadron scattering off nuclei, as well as for the simulation of beyond the standard model processes,
+ - the development, tuning and characterisation of novel *comprehensive* physics models including all processes and spanning the full kinematic space accessible by experiments,
  - the development of an advanced global analysis of neutrino scattering data. 
 
 You can find more details in our [mission statement](https://hep.ph.liv.ac.uk/~costasa/genie/mission.html).
