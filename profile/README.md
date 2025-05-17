@@ -6,7 +6,7 @@
 
 You can find more details in our [mission statement](https://hep.ph.liv.ac.uk/~costasa/genie/mission.html).
 
-The GENIE collaboration maintains a suite of software products for the experimental neutrino community. Repositories for all our products are hosted in this official GENIE GitHub organization. [Click here for a list and quick description of all repositories in this GitHub organization](profile/Repositories.md).
+The GENIE collaboration maintains a suite of software products for the experimental neutrino community. Repositories for all our products are hosted in this official GENIE GitHub organization. [Click here for a list and quick description of all repositories in this GitHub organization](./Repositories.md).
 
 Several GENIE products, including all those related with the service component of our work, such as providing an event generator platform, physics model implementations and associated tools, have source code releases with a permissive license for typical academic use. Other GENIE products, especially those coupled with our dual function of developing a proprietary global analysis of neutrino scattering data do not have source code releases, as it is common practise for several HEP global analyses. Instead, it is our analysis results (physics tunes and uncertainty assignments) which are made publicly available through our event generator platform and associated uncertainty propagation tools. Please [click here to see the GENIE copyright notice](http://copyright.genie-mc.org), and
 [here to learn how to cite GENIE](https://hep.ph.liv.ac.uk/~costasa/genie/citing.html).
