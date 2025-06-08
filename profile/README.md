@@ -1,18 +1,42 @@
-[GENIE](http://www.genie-mc.org) is an [international collaboration of scientists](https://hep.ph.liv.ac.uk/~costasa/genie/collaboration.html) that plays the leading role in:
- - the development of a modern and universal event generator framework and tools in support of neutrino experiments,
- - the consistent, validated and efficient implementation, within a common platform, of a constellation of alternative physics modeling elements for the simulation of neutrino, charged lepton, and hadron scattering off nuclei, as well as for the simulation of beyond the standard model processes,
- - the development, tuning and characterisation of novel *comprehensive* physics models including all processes and spanning the full kinematic space accessible by experiments,
- - the development of an advanced global analysis of neutrino scattering data. 
+<table style="border-collapse: collapse; border: none;">
+  <tr>
+    <td style="border: none; padding-right: 12px; vertical-align: top;">
+      <img src="genie_logo_2_big_medium_resolution.png" alt="GENIE logo" width="220">
+    </td>
+    <td style="border: none; padding: 0;">
+      <p>
+        <a href="http://www.genie-mc.org" target="_blank">http://genie-mc.org</a> |
+        <a href="https://genie-mc.github.io" target="_blank">https://genie-mc.github.io</a>
+      </p>
+      <p>
+        <strong>GENIE</strong> is the world’s leading neutrino event generator, 
+        <strong>bridging theory and experiment in modern neutrino physics</strong>. 
+        It underpins data interpretation and exploitation across major experiments. 
+      </p>
+      <p>
+       The effort is supported by an 
+       <a href="https://genie-mc.github.io/collaboration.html">international collaboration of scientists</a>.
+      </p>
+    </td>
+  </tr>
+</table>
 
-You can find more details in our [mission statement](https://hep.ph.liv.ac.uk/~costasa/genie/mission.html).
+GENIE plays the leading role in:
+- the development of a modern event generation framework, including experimental interfaces and analysis-related in support of neutrino experiments,
+- the validated and efficient implementation of a constellation of alternative physics models within a common platform,
+- the development and characterisation of novel and predictive comprehensive physics models including all processes relevant from MeV to PeV energy scales, and
+- the development of an advanced global analysis of neutrino scattering data for model tuning and data-driven model uncertainty evaluation.
 
-The GENIE collaboration maintains a suite of software products for the experimental neutrino community. Repositories for all our products are hosted in this official GENIE GitHub organization. [Click here for a list and quick description of all repositories in this GitHub organization](./Repositories.md).
+You can find more details in our [mission statement](https://genie-mc.github.io/mission.html).
 
-Several GENIE products, including all those related with the service component of our work, such as providing an event generator platform, physics model implementations and associated tools, have source code releases with a permissive license for typical academic use. Other GENIE products, especially those coupled with our dual function of developing a proprietary global analysis of neutrino scattering data do not have source code releases, as it is common practise for several HEP global analyses. Instead, it is our analysis results (physics tunes and uncertainty assignments) which are made publicly available through our event generator platform and associated uncertainty propagation tools. Please [click here to see the GENIE copyright notice](http://copyright.genie-mc.org), and
-[here to learn how to cite GENIE](https://hep.ph.liv.ac.uk/~costasa/genie/citing.html).
+The GENIE collaboration maintains a [suite of well-known software products](https://genie-mc.github.io/products.html). All GENIE products are hosted in this official GitHub organization. [Click here for a list and brief description of all repositories](Repositories.md).
 
-Information about the GENIE tools and physics content can be found in the as well as in our 
-(draft) [Physics and User manual](https://www.overleaf.com/read/rqmbqzzvsvmb) and in our
-[recent journal publications and conference talks](https://hep.ph.liv.ac.uk/~costasa/genie/pub.html)
+Some GENIE products—such as the event generator platform, physics models, and tools—are open-source under a permissive academic license. Others, linked to proprietary global neutrino scattering analyses, do not release source code. Instead, analysis results (tunes and uncertainties) are made available through the platform. [Click here for the GENIE copyright notice](https://genie-mc.github.io/copyright.html).
 
-If you want to find more information or need help, join the [GENIE Slack channel](https://geniemc.slack.com) [You can join automatically with a cern.ch or a fnal.gov e-mail address, otherwise [request an invitation](mailto:c.andreopoulos@cern.ch)], and feel free to join our monthly [User Forum](https://hep.ph.liv.ac.uk/~costasa/genie/forum.html). 
+If you use GENIE, please cite it properly. [Click here for citation guidelines](https://genie-mc.github.io/citing.html).
+
+For more information about GENIE, please [see our manual and recent publications and talks](https://genie-mc.github.io/pub.html).
+For communication, can join the [GENIE user mailing list](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=NEUTRINO-MC-SUPPORT) and the [GENIE Slack workspace](https://geniemc.slack.com) - if you don't have access, please [request an invitation by e-mail](mailto:c.andreopoulos@cern.ch).
+Feel free to join our monthly [User Forum](https://genie-mc.github.io/forum.html). 
+
+For all enquiries, [contact Prof. Costas Andreopoulos](https://candreop.github.io/contact.html).
