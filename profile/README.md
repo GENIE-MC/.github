@@ -22,7 +22,7 @@
 </table>
 
 GENIE plays the leading role in:
-- the development of a modern event generation framework, including experimental interfaces and analysis-related in support of neutrino experiments,
+- the development of a modern event generation framework, including experimental interfaces and analysis-related tools in support of neutrino experiments,
 - the validated and efficient implementation of a constellation of alternative physics models within a common platform,
 - the development and characterisation of novel and predictive comprehensive physics models including all processes relevant from MeV to PeV energy scales, and
 - the development of an advanced global analysis of neutrino scattering data for model tuning and data-driven model uncertainty evaluation.
